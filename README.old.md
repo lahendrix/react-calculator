@@ -1,14 +1,23 @@
+# DEPRECATED: 
+
+This repo has moved to https://github.com/gschool/react-drills
+
+```
+
+
+
+
+
+
+
+
+
+
+```
+
 # React Calculator
 
-For this assignment, your task is to build a React calculator application that performs basic arithmetic. 
-
-## Setup
-- Clone this repository
-- `npm install`
-- `npm test` to run the tests
-- `npm start`
-
-Then start by enabling the calculator application to performs multiplication.
+For this assignment, your task is to build a React calculator application that performs basic arithmetic. Start by forking and cloning this repository to your development environment. Then, using the provided [template files](template) and _without_ using the `eval()` function, create a React calculator application that performs multiplication.
 
 ![](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/327/09CFCA62-18ED-4099-8729-65BFC9FA06AC-570-0000E58832829D6F.gif)
 
@@ -75,7 +84,7 @@ And pressing the `Escape` key must clear the screen.
 
 ## Bonus
 
-Add additional cypress e2e tests.
+Using your preferred ESLint rules, lint your project with the `npm run lint .` command.
 
 ## Bonus
 
@@ -85,3 +94,6 @@ Refactor the application to correctly handle arithmetic expressions that contain
 
 Once you're satisfied, find a classmate and see if that person would like some help.
 
+## Solution
+
+The [solution](https://github.com/gSchool/wd-react-calculator-solution) is available to instructors as well as students who've completed this assignment.
